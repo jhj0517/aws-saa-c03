@@ -1,5 +1,6 @@
 - [x] 25.02.09: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#yaml---yaml-aint-markup-language
 - [x] 25.02.11: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#domain-name-system-dns-basics
+- [x] 25.02.12: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#object-versioning--mfa-delete
 # AWS Solutions Architect Associate [SAA-C03]
 
 This page contains notes primarily from Adrian Cantrill’s [AWS Solutions Architect - Associate (SAA-C03)](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03). These notes should enable you to answer most, if not all, of the questions you may encounter in the exam.
