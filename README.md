@@ -3,6 +3,7 @@
 - [x] 25.02.12: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#object-versioning--mfa-delete
 - [x] 25.02.15: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#key-management-service-kms
 - [x] 25.02.16: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#s3-replication
+- [x] 25.02.20: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#bastion-host--jumpbox
 
 # AWS Solutions Architect Associate [SAA-C03]
 
