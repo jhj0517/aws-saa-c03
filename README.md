@@ -7,6 +7,7 @@
 - [x] 25.02.22: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#sr-iov-single-root-io-virtualization
 - [x] 25.02.23: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#dedicated-host
 - [x] 25.02.24: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#elastic-kubernetes-service-eks-101
+- [x] 25.02.28: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#aws-global-infrastructure
 
 # AWS Solutions Architect Associate [SAA-C03]
 
