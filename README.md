@@ -10,7 +10,7 @@
 - [x] 25.02.28: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#aws-global-infrastructure
 - [x] 25.03.01: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#ebs-optimized
 - [x] 25.03.02: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#cname-vs-r53-alias
-- [x] 25.03.04: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#routing-policy-7-geoproximity-routing 
+- [x] 25.03.03: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#routing-policy-7-geoproximity-routing 
 
 # AWS Solutions Architect Associate [SAA-C03]
 
