@@ -12,6 +12,7 @@
 - [x] 25.03.02: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#cname-vs-r53-alias
 - [x] 25.03.03: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#routing-policy-7-geoproximity-routing
 - [x] 25.03.04: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#rds-database-instance
+- [x] 25.03.05: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#rds-restores 
 
 # AWS Solutions Architect Associate [SAA-C03]
 
