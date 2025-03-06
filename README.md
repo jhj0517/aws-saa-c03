@@ -13,7 +13,7 @@
 - [x] 25.03.03: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#routing-policy-7-geoproximity-routing
 - [x] 25.03.04: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#rds-database-instance
 - [x] 25.03.05: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#rds-restores 
-
+- [x] 25.03.07: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#key-concepts-5
 # AWS Solutions Architect Associate [SAA-C03]
 
 This page contains notes primarily from Adrian Cantrill’s [AWS Solutions Architect - Associate (SAA-C03)](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03). These notes should enable you to answer most, if not all, of the questions you may encounter in the exam.
