@@ -16,6 +16,7 @@
 - [x] 25.03.07: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#key-concepts-5
 - [x] 25.03.09: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#dms--snowball
 - [x] 25.03.23: https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#amazon-cognito---user-and-identity-pools
+- [x] 25.03.29 https://github.com/jhj0517/aws-saa-c03?tab=readme-ov-file#aws-artifact
 # AWS Solutions Architect Associate [SAA-C03]
 
 This page contains notes primarily from Adrian Cantrill’s [AWS Solutions Architect - Associate (SAA-C03)](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03). These notes should enable you to answer most, if not all, of the questions you may encounter in the exam.
